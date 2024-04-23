@@ -1,0 +1,26 @@
+jethalal_Gada 1000 12001 500 Shampoo 2 COD Dispatched 3
+Champaklal_Gada 1001 12002 300 Conditioner 1 COD Pending 2
+Daya_Gada 1002 12003 200 Soap 4 PREPAID Delivered 1
+Tapu_Gada 1003 12004 100 Toothpaste 3 COD OutforDelivery 2
+Tarak_Mehta 1004 12005 150 BodyLotion 2 COD Dispatched 3
+Anjali_Mehta 1005 12006 199999 Laptop 1 PREPAID Delivered 0
+Chalu_Pandey 1006 12007 600 TowelSet 2 COD Pending 2
+Popatlal_Pandey 1007 12008 700 Pillow 2 EMI Processing 4
+Dr._Hanshraj_Hathi 1008 12009 250 Candle 5 COD Dispatched 3
+Komal_Hathi 1009 12010 12000 Smartphone 1 PREPAID Delivered 0
+Atmaram_Tukaram Bhide 1010 12011 80 HandSoap 6 COD Pending 2
+Madhvi_Bhide 1011 12012 4000 GamingConsole 1 PREPAID Delivered 0
+Abdul 1012 12013 180 ShowerGel 3 COD Dispatched 3
+Gulabkumar_Hathi 1013 12014 150 Hairbrush 2 COD OutforDelivery 2
+Krishnan_Ayyar 1014 12015 90 NailCutter 4 PREPAID Delivered 0
+Babita_Ayyar 1015 12016 350 Perfume 1 COD Pending 2
+Mr._Roshansingh_sodhi 1016 12017 200 ShavingCream 3 COD Dispatched 3
+Mrs._Roshansingh_Sodhi 1017 12018 600 Backpack 1 PREPAID Delivered 0
+Gurucharan_Singh Sodhi 1018 12019 250 Earphones 2 COD Pending 2
+Sonalika_Bhide 1019 12020 1500 Camera 1 PREPAID Delivered 0
+Natarvarlal_Udhaiwala 1020 12021 120 Tissues 5 COD OutforDelivery 2
+Bagha_Udhaiwala 1021 12022 8000 Television 1 PREPAID Delivered 0
+Bavri 1022 12023 350 Socks 3 COD Dispatched 3
+Basundi_Pandey 1023 12024 200 Hat 2 COD OutforDelivery 2
+Mohanlal_matkaking 1024 12025 100 Sunglasses 1 PREPAID Delivered 0
+
